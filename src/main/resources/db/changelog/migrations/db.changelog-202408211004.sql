@@ -1,5 +1,5 @@
 --liquibase formatted sql
---changeset junior:202408191938
+--changeset MatheusCosta616:202408191938
 --comment: cards table create
 
 CREATE TABLE CARDS(
